@@ -13,10 +13,10 @@ We employed a Hidden Markov Model (HMM) approach to extract brain dynamics featu
 
 ## Requirements
 
-- **MATLAB**
+- **MATLAB**  
   Required toolbox: [HMM-MAR toolbox](https://github.com/OHBA-analysis/HMM-MAR) 
 
-- **R** (version ≥ 4.0)  
+- **R**  
   Required R packages: `tidyverse`, `ggplot2`, `lme4`, etc. (specified in each script)
 
 ## Usage
