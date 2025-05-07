@@ -25,7 +25,7 @@ We employed a Hidden Markov Model (HMM) approach to extract brain dynamics featu
    The expected format is subject-wise timeseries `.csv` files.
 
 2. Run the analysis scripts in order:
-   `scripts/01_run_HMM_MAR.m`
-   `scripts/02_extract_HMM_features.m`
-   `scripts/03_group_comparison.R`
-   `scripts/04_plot_figures.R`
+   `scripts/01_run_HMM_MAR.m`  
+   `scripts/02_extract_HMM_features.m`  
+   `scripts/03_group_comparison.R`  
+   `scripts/04_plot_figures.R`  
