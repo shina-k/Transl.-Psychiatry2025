@@ -7,9 +7,9 @@ We employed a Hidden Markov Model (HMM) approach to extract brain dynamics featu
 
 - `data/` — [User-provided] Preprocessed timeseries data (rows = time points, columns = ROIs)
 - `scripts/` — Analysis scripts (HMM, feature extraction, statistics, figures)
-- `results/` — outputs of HMM
+- `results/` — outputs of HMM analysis
 - `features/` — HMM features
-- `figures/` — save figures
+- `figures/` — saved figures
 - `README.md` — This document
 - `LICENSE` — License information
 
@@ -29,5 +29,4 @@ We employed a Hidden Markov Model (HMM) approach to extract brain dynamics featu
 2. Run the analysis scripts in order:  
    `scripts/01_run_HMM_MAR.m`  
    `scripts/02_extract_HMM_features.m`  
-   `scripts/03_group_comparison.R`
-   `scripts/04_plot_figures.R`  
+   `scripts/03_plot_figures.R`  
