@@ -6,7 +6,7 @@ We employed a Hidden Markov Model (HMM) approach to extract brain dynamics featu
 ## Repository structure
 
 - `data/` — [User-provided] Preprocessed timeseries data (rows = time points, columns = ROIs)
-- `scripts/` — Analysis scripts (HMM, feature extraction, statistics, figures)
+- `scripts/` — Analysis scripts (HMM, feature extraction, figures)
 - `results/` — outputs of HMM analysis
 - `features/` — HMM features
 - `figures/` — saved figures
